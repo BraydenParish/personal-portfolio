@@ -22,3 +22,15 @@ a {
     font-size: 24px;
     text-decoration: none;
 }
+
+.link-hover {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+}
+
+.link-hover:hover {
+    background-color: rgb(5, 5, 148);
+}
